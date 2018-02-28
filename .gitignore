@@ -1,0 +1,29 @@
+# IDE-Specific
+##############################
+*.suo
+*.csproj.user
+*.iml
+.idea/
+.vs/
+
+# OS-Generated
+##############################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+
+# Build artifacts
+##############################
+/src/packages
+/src/*/bin
+/src/*/obj
+NuGetBackup/
+
+# node.js
+##############################
+node_modules/
