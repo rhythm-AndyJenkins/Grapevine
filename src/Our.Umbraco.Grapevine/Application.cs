@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 using Owin;
 using Microsoft.Owin;
 
-[assembly: OwinStartup(typeof(Our.Umbraco.Grapevine.Application))]
+[assembly: OwinStartup(typeof(Grapevine.Application))]
 
-namespace Our.Umbraco.Grapevine {
+namespace Grapevine {
     public class Application {
 
         public void Configuration(IAppBuilder app) {

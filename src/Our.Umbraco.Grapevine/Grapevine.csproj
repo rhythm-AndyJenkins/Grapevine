@@ -7,8 +7,8 @@
     <ProjectGuid>{D8F70B44-5822-4912-8A1B-131A73DA0709}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Our.Umbraco.Grapevine</RootNamespace>
-    <AssemblyName>Our.Umbraco.Grapevine</AssemblyName>
+    <RootNamespace>Grapevine</RootNamespace>
+    <AssemblyName>Grapevine</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

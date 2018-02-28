@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Microsoft.AspNet.SignalR;
 
-namespace Our.Umbraco.Grapevine.Hubs {
+namespace Grapevine.Hubs {
 
     public class ChatHub : Hub {
         public void Send(string name, string message) {
