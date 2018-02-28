@@ -324,7 +324,7 @@
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Our.Umbraco.Grapevine\Grapevine.csproj">
+    <ProjectReference Include="..\Grapevine\Grapevine.csproj">
       <Project>{d8f70b44-5822-4912-8a1b-131a73da0709}</Project>
       <Name>Grapevine</Name>
     </ProjectReference>

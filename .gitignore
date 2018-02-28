@@ -27,3 +27,5 @@ NuGetBackup/
 # node.js
 ##############################
 node_modules/
+
+/dist/
